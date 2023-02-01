@@ -1,0 +1,5 @@
+NAME,EMAIL
+AYUSH GOyal,ayushgoyal.ai21@rvce.edu.in
+Dev Juneja,dev.ai21@rvce.edu.in
+Prajwal Pawar,prajwalmp.ai21@rvce.edu.in
+Ajay Brightson, ajaybrightson.ai21@rvce.edu.in
